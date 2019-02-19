@@ -2,6 +2,9 @@
 
 複数Tilemap編集を手軽にする自作カスタムブラシ
 
+対応バージョン：
+Unity 2017.2.1f1
+
 解説ページ：
 https://qiita.com/mamemoyassy/items/cbaae33ae2a8c5643bd3
 
